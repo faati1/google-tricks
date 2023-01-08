@@ -1,0 +1,36 @@
+allinanchor:
+All query words must appear
+in anchor text of links to the
+page.
+allinanchor:useful parenting sites
+(Search for pages that are called useful parenting sites by others.)
+inanchor: Terms must appear in anchor
+text of links to the page.
+restaurants Portland inanchor:kid-friendly
+(Search for pages on Portland restaurants for which links to the page say
+they are "kid friendly.")
+allintext: All query words must appear
+in the text of the page. allintext:ingredients cilantro chicken lime
+(Search for recipes with these three ingredients.)
+intext: The terms must appear in
+the text of the page.
+Dan Shugar intext:Powerlight
+(Find pages mentioning Dan Shugar where his company, Powerlight, is
+included in the text of the page, i.e., less likely to be from the corporate
+website.)
+allintitle: All query words must appear
+in the title of the page.
+allintitle: Google Advanced Operators
+(Search for pages with titles containing "Google," "Advanced,", and
+"Operators".)
+intitle: The terms must appear in the
+title of the page.
+movies comedy intitle:top ten
+(Search for pages with the words movie and comedy that include top
+ten in the title of the page.)
+allinurl: All query words must appear
+in the URL. allinurl:pez faq
+(Search for pages containing the words pez & faq in the URL.)
+inurl: The terms must appear in the
+URL of the page. pharmaceutical inurl:investor
+(Search for pages in which the URL contains the word investor.)
